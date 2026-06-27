@@ -49,3 +49,20 @@ streamlit run app.py
 - Data Analysis
 - Machine Learning Fundamentals
 - Streamlit Application Development
+
+## Application Screenshots
+
+### Home Page
+![Home Page](images/home-page.png)
+
+### Upload Resume
+![Upload Resume](images/upload-resume.png)
+
+### Match Results
+![Match Results](images/match-results.png)
+
+### Resume Structure
+![Resume Structure](images/resume-structure.png)
+
+### Skills & Keywords Match
+![Skills & Keywords Match](images/skills-keywords-match.png)  
