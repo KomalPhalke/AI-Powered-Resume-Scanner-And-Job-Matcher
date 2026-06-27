@@ -55,7 +55,7 @@ streamlit run app.py
 ### Home Page
 ![home page](https://github.com/KomalPhalke/AI-Powered-Resume-Scanner-And-Job-Matcher/blob/main/home%20page.PNG?raw=true)
 ### Upload Resume
-![upload resume](upload-resume.PNG)
+![upload resume](https://github.com/KomalPhalke/AI-Powered-Resume-Scanner-And-Job-Matcher/blob/main/upload%20resume.PNG?raw=true)
 
 ### Match Results
 ![show match results](show-match-results.PNG)
