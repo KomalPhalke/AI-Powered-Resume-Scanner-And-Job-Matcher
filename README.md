@@ -67,5 +67,5 @@ streamlit run app.py
 ![skills and keywords match](https://github.com/KomalPhalke/AI-Powered-Resume-Scanner-And-Job-Matcher/blob/main/skills%20and%20keywords%20match.PNG?raw=true)
 
 ### ATS Score
-![ATS score](ATS-score.PNG) 
+![ATS score](https://github.com/KomalPhalke/AI-Powered-Resume-Scanner-And-Job-Matcher/blob/main/ATS%20score.PNG?raw=true) 
 
