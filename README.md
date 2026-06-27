@@ -58,7 +58,7 @@ streamlit run app.py
 ![upload resume](https://github.com/KomalPhalke/AI-Powered-Resume-Scanner-And-Job-Matcher/blob/main/upload%20resume.PNG?raw=true)
 
 ### Match Results
-![show match results](show-match-results.PNG)
+![show match results](https://github.com/KomalPhalke/AI-Powered-Resume-Scanner-And-Job-Matcher/blob/main/show%20match%20result.PNG?raw=true)
 
 ### Resume Structure
 ![resume structure](resume-structure.PNG)
