@@ -53,7 +53,7 @@ streamlit run app.py
 ## Application Screenshots
 
 ### Home Page
-![home page](home-page.PNG)
+![home_page](home-page.PNG)
 
 ### Upload Resume
 ![upload resume](upload-resume.PNG)
@@ -65,8 +65,8 @@ streamlit run app.py
 ![resume structure](resume-structure.PNG)
 
 ### Skills & Keywords Match
-![skills and keywords match](skills-keywords-match.PNG)  
+![skills and keywords match](skills-keywords-match.PNG)
 
 ### ATS Score
-![ATS score](ATS-score.PNG)  
+![ATS score](ATS-score.PNG) 
 
